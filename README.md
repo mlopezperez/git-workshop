@@ -1,4 +1,4 @@
 # git-workshop
 git repo for workshop
 
-Some edit more in hotfix
+Some edit more in hotfix merge
